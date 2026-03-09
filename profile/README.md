@@ -1,12 +1,17 @@
 ## Hi there 👋
 
-<!--
+## Starter Cookbook
 
-**Here are some ideas to get you started:**
+A collection of starter guides for beginner developers.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Cookbooks
+
+* Git
+* Python
+* FastAPI
+
+Each cookbook is maintained in its own repository and published as its own documentation site.
+
+### Contributing
+
+If you want to contribute open an Issue or Discussion in one of the repos.
