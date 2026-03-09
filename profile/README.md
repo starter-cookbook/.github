@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Starter Cookbook
 
 A collection of starter guides for beginner developers.
